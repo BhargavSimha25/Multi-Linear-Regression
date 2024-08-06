@@ -1,4 +1,4 @@
-Multi Linear Regression (MLR)
+# Multi Linear Regression (MLR)
 Welcome to the Multi Linear Regression (MLR) repository! This project is dedicated to providing comprehensive resources, tools, and tutorials to help you master multiple linear regression techniques, interpret results, and apply them to real-world data analysis.
 
 Table of Contents
