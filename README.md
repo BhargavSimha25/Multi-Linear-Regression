@@ -29,5 +29,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-If you have any questions or need further assistance, feel free to open an issue or contact us at your.email@example.com.
-
+If you have any questions or need further assistance, feel free to open an issue or contact us at 2004c7.bhargav@gmail.com.
